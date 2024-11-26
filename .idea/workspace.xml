@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27c1cb4a-3381-44fe-b617-15f73310d804" name="Changes" comment="Выполнено ДЗ-3">
-      <change afterPath="$PROJECT_DIR$/Module_2/module_2_4.py" afterDir="false" />
+    <list default="true" id="27c1cb4a-3381-44fe-b617-15f73310d804" name="Changes" comment="Выполнено ДЗ-4">
+      <change afterPath="$PROJECT_DIR$/Module_2/module_2_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,7 @@
     "Python.module_2_2.executor": "Run",
     "Python.module_2_3.executor": "Run",
     "Python.module_2_4.executor": "Run",
+    "Python.module_2_5.executor": "Run",
     "Python.module_2_6.executor": "Run",
     "Python.pep.executor": "Run",
     "Python.temp.executor": "Run",
@@ -94,13 +95,22 @@
       <option name="project" value="LOCAL" />
       <updated>1732417716946</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Выполнено ДЗ-4">
+      <option name="closed" value="true" />
+      <created>1732545644219</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732545644219</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Файлы переименованы. Выполнено ДЗ-2" />
     <MESSAGE value="Выполнено ДЗ-3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнено ДЗ-3" />
+    <MESSAGE value="Выполнено ДЗ-4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнено ДЗ-4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
