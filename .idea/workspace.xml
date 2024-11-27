@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27c1cb4a-3381-44fe-b617-15f73310d804" name="Changes" comment="Выполнено ДЗ-5">
-      <change afterPath="$PROJECT_DIR$/Module_2/module_2_game.py" afterDir="false" />
+    <list default="true" id="27c1cb4a-3381-44fe-b617-15f73310d804" name="Changes" comment="Разработка игры в крестики-нолики">
+      <change afterPath="$PROJECT_DIR$/Module_2/module_2_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732632421932</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Разработка игры в крестики-нолики">
+      <option name="closed" value="true" />
+      <created>1732721117786</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732721117786</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -120,7 +128,8 @@
     <MESSAGE value="Выполнено ДЗ-3" />
     <MESSAGE value="Выполнено ДЗ-4" />
     <MESSAGE value="Выполнено ДЗ-5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнено ДЗ-5" />
+    <MESSAGE value="Разработка игры в крестики-нолики" />
+    <option name="LAST_COMMIT_MESSAGE" value="Разработка игры в крестики-нолики" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
