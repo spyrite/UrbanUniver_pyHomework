@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27c1cb4a-3381-44fe-b617-15f73310d804" name="Changes" comment="Выполнено ДЗ-4">
-      <change afterPath="$PROJECT_DIR$/Module_2/module_2_5.py" afterDir="false" />
+    <list default="true" id="27c1cb4a-3381-44fe-b617-15f73310d804" name="Changes" comment="Выполнено ДЗ-5">
+      <change afterPath="$PROJECT_DIR$/Module_2/module_2_game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
     "Python.module_2_4.executor": "Run",
     "Python.module_2_5.executor": "Run",
     "Python.module_2_6.executor": "Run",
+    "Python.module_2_game.executor": "Run",
     "Python.pep.executor": "Run",
     "Python.temp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -103,14 +104,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732545644219</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Выполнено ДЗ-5">
+      <option name="closed" value="true" />
+      <created>1732632421932</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732632421932</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Файлы переименованы. Выполнено ДЗ-2" />
     <MESSAGE value="Выполнено ДЗ-3" />
     <MESSAGE value="Выполнено ДЗ-4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнено ДЗ-4" />
+    <MESSAGE value="Выполнено ДЗ-5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнено ДЗ-5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
