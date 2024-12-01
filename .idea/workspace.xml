@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27c1cb4a-3381-44fe-b617-15f73310d804" name="Changes" comment="Рассмотрена и применена функция all()">
-      <change afterPath="$PROJECT_DIR$/Module_3/module_3_1.py" afterDir="false" />
+    <list default="true" id="27c1cb4a-3381-44fe-b617-15f73310d804" name="Changes" comment="Переход к модулю 3. Выполнено ДЗ-1">
+      <change afterPath="$PROJECT_DIR$/Module_3/module_3_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
     "Python.module_2_6.executor": "Run",
     "Python.module_2_game.executor": "Run",
     "Python.module_3_1.executor": "Run",
+    "Python.module_3_2.executor": "Run",
     "Python.pep.executor": "Run",
     "Python.temp.executor": "Run",
     "Python.test.executor": "Run",
@@ -162,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732808310595</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Переход к модулю 3. Выполнено ДЗ-1">
+      <option name="closed" value="true" />
+      <created>1732944569221</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732944569221</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -173,7 +182,8 @@
     <MESSAGE value="Разработка игры в крестики-нолики" />
     <MESSAGE value="Выполнено ДЗ-6" />
     <MESSAGE value="Рассмотрена и пременена функция all()" />
-    <option name="LAST_COMMIT_MESSAGE" value="Рассмотрена и пременена функция all()" />
+    <MESSAGE value="Переход к модулю 3. Выполнено ДЗ-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Переход к модулю 3. Выполнено ДЗ-1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
