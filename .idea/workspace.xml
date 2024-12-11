@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27c1cb4a-3381-44fe-b617-15f73310d804" name="Changes" comment="Рассмотрен набор стандартных функций">
-      <change afterPath="$PROJECT_DIR$/Module_3/01_triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module_3/02_calls_and_defaults.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module_3/02_fractal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module_3/02_snowflake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module_3/03_arbitrary_params.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module_3/04_recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module_3/05_builtin.py" afterDir="false" />
+    <list default="true" id="27c1cb4a-3381-44fe-b617-15f73310d804" name="Changes" comment="Рассмотрен код бинарного выбора на вебинаре. Добавлен дополнительный материал">
+      <change afterPath="$PROJECT_DIR$/Module_4/fake_math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_4/module_4_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_4/true_math.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_3/module_3_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module_3/module_3_5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +62,8 @@
     "Python.module_3_5.executor": "Run",
     "Python.module_3_6.executor": "Run",
     "Python.module_3_6_corr.executor": "Run",
+    "Python.module_4_1.executor": "Run",
+    "Python.module_4_1_1.executor": "Run",
     "Python.pep.executor": "Run",
     "Python.temp.executor": "Run",
     "Python.test.executor": "Run",
@@ -78,33 +75,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Repositories\UrbanUniver_pyHomework\Module_3\Helpers" />
       <recent name="D:\Repositories\UrbanUniver_pyHomework\Module_3" />
       <recent name="D:\Repositories\UrbanUniver_pyHomework" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="module_3_1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="UrbanUniver_pyHomework" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module_3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module_3/module_3_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -234,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733769645869</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Рассмотрен код бинарного выбора на вебинаре. Добавлен дополнительный материал">
+      <option name="closed" value="true" />
+      <created>1733924298723</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1733924298723</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -250,7 +232,8 @@
     <MESSAGE value="Выполнено дополнительное практическое занятие к модулю 3" />
     <MESSAGE value="Рассмотрено приложение с калькулятором" />
     <MESSAGE value="Рассмотрен набор стандартных функций" />
-    <option name="LAST_COMMIT_MESSAGE" value="Рассмотрен набор стандартных функций" />
+    <MESSAGE value="Рассмотрен код бинарного выбора на вебинаре. Добавлен дополнительный материал" />
+    <option name="LAST_COMMIT_MESSAGE" value="Рассмотрен код бинарного выбора на вебинаре. Добавлен дополнительный материал" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
