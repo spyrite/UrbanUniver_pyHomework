@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27c1cb4a-3381-44fe-b617-15f73310d804" name="Changes" comment="Выполнено ДЗ-4">
-      <change afterPath="$PROJECT_DIR$/Module_3/module_3_5.py" afterDir="false" />
+    <list default="true" id="27c1cb4a-3381-44fe-b617-15f73310d804" name="Changes" comment="Рассмотрен набор стандартных функций">
+      <change afterPath="$PROJECT_DIR$/Module_3/01_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_3/02_calls_and_defaults.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_3/02_fractal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_3/02_snowflake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_3/03_arbitrary_params.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_3/04_recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_3/05_builtin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_3/module_3_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module_3/module_3_5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +53,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.calc.executor": "Run",
     "Python.module_2_2.executor": "Run",
     "Python.module_2_3.executor": "Run",
     "Python.module_2_4.executor": "Run",
@@ -57,9 +65,12 @@
     "Python.module_3_3.executor": "Run",
     "Python.module_3_4.executor": "Run",
     "Python.module_3_5.executor": "Run",
+    "Python.module_3_6.executor": "Run",
+    "Python.module_3_6_corr.executor": "Run",
     "Python.pep.executor": "Run",
     "Python.temp.executor": "Run",
     "Python.test.executor": "Run",
+    "Python.web.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
@@ -67,6 +78,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Repositories\UrbanUniver_pyHomework\Module_3" />
       <recent name="D:\Repositories\UrbanUniver_pyHomework" />
     </key>
   </component>
@@ -198,7 +210,31 @@
       <option name="project" value="LOCAL" />
       <updated>1733238735044</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Выполнено дополнительное практическое занятие к модулю 3">
+      <option name="closed" value="true" />
+      <created>1733769570569</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1733769570569</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Рассмотрено приложение с калькулятором">
+      <option name="closed" value="true" />
+      <created>1733769625050</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1733769625050</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Рассмотрен набор стандартных функций">
+      <option name="closed" value="true" />
+      <created>1733769645869</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1733769645869</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -211,7 +247,10 @@
     <MESSAGE value="Выполнено ДЗ-2" />
     <MESSAGE value="Выполнено ДЗ-3" />
     <MESSAGE value="Выполнено ДЗ-4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнено ДЗ-4" />
+    <MESSAGE value="Выполнено дополнительное практическое занятие к модулю 3" />
+    <MESSAGE value="Рассмотрено приложение с калькулятором" />
+    <MESSAGE value="Рассмотрен набор стандартных функций" />
+    <option name="LAST_COMMIT_MESSAGE" value="Рассмотрен набор стандартных функций" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
