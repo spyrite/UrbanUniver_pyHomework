@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27c1cb4a-3381-44fe-b617-15f73310d804" name="Changes" comment="Рассмотрен код бинарного выбора на вебинаре. Добавлен дополнительный материал">
-      <change afterPath="$PROJECT_DIR$/Module_4/fake_math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module_4/module_4_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module_4/true_math.py" afterDir="false" />
+    <list default="true" id="27c1cb4a-3381-44fe-b617-15f73310d804" name="Changes" comment="Выполнено ДЗ-5-1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +45,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.alg.executor": "Run",
     "Python.calc.executor": "Run",
+    "Python.f.executor": "Run",
+    "Python.fizzbuzz.executor": "Run",
+    "Python.ins.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.module2.executor": "Run",
     "Python.module_2_2.executor": "Run",
     "Python.module_2_3.executor": "Run",
     "Python.module_2_4.executor": "Run",
@@ -64,9 +67,15 @@
     "Python.module_3_6_corr.executor": "Run",
     "Python.module_4_1.executor": "Run",
     "Python.module_4_1_1.executor": "Run",
+    "Python.module_4_2.executor": "Run",
+    "Python.module_4_2_1.executor": "Run",
+    "Python.module_5_1.executor": "Run",
+    "Python.module_5_1a.executor": "Run",
+    "Python.module_5_2.executor": "Run",
     "Python.pep.executor": "Run",
     "Python.temp.executor": "Run",
     "Python.test.executor": "Run",
+    "Python.test2.executor": "Run",
     "Python.web.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -75,15 +84,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Repositories\UrbanUniver_pyHomework\Module_3\Helpers" />
-      <recent name="D:\Repositories\UrbanUniver_pyHomework\Module_3" />
-      <recent name="D:\Repositories\UrbanUniver_pyHomework" />
+      <recent name="D:\Repositories\UrbanUniver_pyHomework\Module_4" />
+      <recent name="D:\Repositories\UrbanUniver_pyHomework\Module_4\package1" />
+      <recent name="D:\Repositories\UrbanUniver_pyHomework\package1\package2" />
+      <recent name="D:\Repositories\UrbanUniver_pyHomework\package1" />
+      <recent name="D:\Repositories\UrbanUniver_pyHomework\package1\package2\package3" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+        <option value="bundled-python-sdk-1b1018131e27-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.180" />
       </set>
     </attachedChunks>
   </component>
@@ -216,8 +227,35 @@
       <option name="project" value="LOCAL" />
       <updated>1733924298723</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Выполнено ДЗ-4-1">
+      <option name="closed" value="true" />
+      <created>1733926962939</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1733926962939</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Выполнено ДЗ-5-1">
+      <option name="closed" value="true" />
+      <created>1734451797796</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1734451797796</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Файлы переименованы. Выполнено ДЗ-2" />
@@ -233,7 +271,9 @@
     <MESSAGE value="Рассмотрено приложение с калькулятором" />
     <MESSAGE value="Рассмотрен набор стандартных функций" />
     <MESSAGE value="Рассмотрен код бинарного выбора на вебинаре. Добавлен дополнительный материал" />
-    <option name="LAST_COMMIT_MESSAGE" value="Рассмотрен код бинарного выбора на вебинаре. Добавлен дополнительный материал" />
+    <MESSAGE value="Выполнено ДЗ-4-1" />
+    <MESSAGE value="Выполнено ДЗ-5-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнено ДЗ-5-1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
