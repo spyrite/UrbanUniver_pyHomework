@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27c1cb4a-3381-44fe-b617-15f73310d804" name="Changes" comment="Выполнено ДЗ-5-1a (урок &quot;Атрибуты и методы объекта&quot;">
+    <list default="true" id="27c1cb4a-3381-44fe-b617-15f73310d804" name="Changes" comment="Выполнено ДЗ-5-2 (урок &quot;Специальные методы классов&quot;)">
+      <change afterPath="$PROJECT_DIR$/Module_5/module_5_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +39,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2pAP9p9FWGHMsmuO6QlRes3VoCo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -72,7 +75,9 @@
     "Python.module_4_2_1.executor": "Run",
     "Python.module_5_1.executor": "Run",
     "Python.module_5_1a.executor": "Run",
+    "Python.module_5_1b.executor": "Run",
     "Python.module_5_2.executor": "Run",
+    "Python.module_5_3.executor": "Run",
     "Python.pep.executor": "Run",
     "Python.temp.executor": "Run",
     "Python.test.executor": "Run",
@@ -80,10 +85,14 @@
     "Python.web.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Repositories/UrbanUniver_pyHomework/Module_5"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Repositories\UrbanUniver_pyHomework\Module_5" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Repositories\UrbanUniver_pyHomework\Module_4" />
       <recent name="D:\Repositories\UrbanUniver_pyHomework\Module_4\package1" />
@@ -95,7 +104,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-1b1018131e27-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.180" />
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
@@ -252,7 +261,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734887917313</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Выполнено ДЗ-5-2 (урок &quot;Специальные методы классов&quot;)">
+      <option name="closed" value="true" />
+      <created>1734967994048</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1734967994048</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -283,7 +300,8 @@
     <MESSAGE value="Выполнено ДЗ-4-1" />
     <MESSAGE value="Выполнено ДЗ-5-1" />
     <MESSAGE value="Выполнено ДЗ-5-1a (урок &quot;Атрибуты и методы объекта&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнено ДЗ-5-1a (урок &quot;Атрибуты и методы объекта&quot;" />
+    <MESSAGE value="Выполнено ДЗ-5-2 (урок &quot;Специальные методы классов&quot;)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнено ДЗ-5-2 (урок &quot;Специальные методы классов&quot;)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
