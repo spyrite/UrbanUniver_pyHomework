@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27c1cb4a-3381-44fe-b617-15f73310d804" name="Changes" comment="Выполнено ДЗ-5-2 (урок &quot;Специальные методы классов&quot;)">
-      <change afterPath="$PROJECT_DIR$/Module_5/module_5_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="27c1cb4a-3381-44fe-b617-15f73310d804" name="Changes" comment="Выполнено ДЗ-5-3 (урок &quot;Перегрузка операторов&quot;)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -269,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734967994048</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Выполнено ДЗ-5-3 (урок &quot;Перегрузка операторов&quot;)">
+      <option name="closed" value="true" />
+      <created>1735174462466</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1735174462466</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -301,7 +306,8 @@
     <MESSAGE value="Выполнено ДЗ-5-1" />
     <MESSAGE value="Выполнено ДЗ-5-1a (урок &quot;Атрибуты и методы объекта&quot;" />
     <MESSAGE value="Выполнено ДЗ-5-2 (урок &quot;Специальные методы классов&quot;)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнено ДЗ-5-2 (урок &quot;Специальные методы классов&quot;)" />
+    <MESSAGE value="Выполнено ДЗ-5-3 (урок &quot;Перегрузка операторов&quot;)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнено ДЗ-5-3 (урок &quot;Перегрузка операторов&quot;)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
