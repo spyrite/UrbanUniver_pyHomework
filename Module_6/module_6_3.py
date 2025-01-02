@@ -59,7 +59,7 @@ class Duckbill(PoisonousAnimal, AquaticAnimal, Bird):
         print(self.sound)
 
 
-db = Duckbill(10)
+db = Duckbill(10) #Утконос
 
 print(db.live)
 print(db.beak)
